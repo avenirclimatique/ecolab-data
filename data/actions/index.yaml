@@ -12,4 +12,5 @@ actions:
       - logement . baisse 1 degré
       - transport . boulot . covoiturage
       - transport . boulot . télétravail
+      - humour . partage NGC
       
